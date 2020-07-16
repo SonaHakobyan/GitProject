@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            var str = "Hello World!";
-            new Class1().Print(str);
+            new Class1().Print("Hello!");
         }
     }
 }
