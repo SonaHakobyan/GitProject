@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine(str);
             Console.WriteLine("cherry-pick");
+            Console.WriteLine("commit_1");
             return str;
         }
     }
