@@ -7,8 +7,7 @@ namespace ConsoleApp1
         public string LocalPrint_Chackout(string str)
         {
             Console.WriteLine(str);
-            Console.WriteLine("cherry-pick___");
-            Console.WriteLine("commit_2");
+            Console.WriteLine("asd");
             return str;
         }
     }
