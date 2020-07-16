@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             var str = "Hello World!";
-            new Class1().PrintString(str);
+            new Class1().LocalPrint(str);
         }
     }
 }
