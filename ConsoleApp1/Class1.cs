@@ -8,6 +8,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine(str);
             Console.WriteLine("Master change");
+            Console.WriteLine("Master Change");
             return str;
         }
     }
