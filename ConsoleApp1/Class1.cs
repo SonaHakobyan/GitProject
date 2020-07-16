@@ -4,7 +4,7 @@ namespace ConsoleApp1
 {
     public class Class1
     {
-        public string LocalPrint(string str)
+        public string LocalPrint_Chackout(string str)
         {
             Console.WriteLine(str);
             return str;
