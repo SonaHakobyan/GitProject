@@ -4,11 +4,10 @@ namespace ConsoleApp1
 {
     public class Class1
     {
-        public string LocalPrint_Chackout(string str)
+        public string LocalPrint(string str)
         {
             Console.WriteLine(str);
-            Console.WriteLine("cherry-pick");
-            Console.WriteLine("commit_1");
+            Console.WriteLine("asd");
             return str;
         }
     }
