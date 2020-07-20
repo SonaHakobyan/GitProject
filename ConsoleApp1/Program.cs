@@ -4,9 +4,8 @@
     {
         static void Main(string[] args)
         {
-            var str = "rebase";
+            var str = "local";
             new Class1().LocalPrint(str);
-            new Class1().LocalPrint("Local Change");
         }
     }
 }
