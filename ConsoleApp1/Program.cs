@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            var str = "master";
+            var str = "master-hiii";
             new Class1().MasterPrint(str);
         }
     }
