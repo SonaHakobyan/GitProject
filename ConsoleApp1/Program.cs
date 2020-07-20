@@ -6,7 +6,7 @@
         {
             var str = "str";
             new Class1().LocalPrint(str);
-            new Class1().LocalPrint("Local Change");
+            new Class1().LocalPrint("Local Change nnn");
         }
     }
 }
