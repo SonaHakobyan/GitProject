@@ -7,7 +7,7 @@ namespace ConsoleApp1
         public string LocalPrint(string str)
         {
             Console.WriteLine(str);
-            Console.WriteLine("local change");
+            Console.WriteLine("local change bbb");
             return str;
         }
     }
