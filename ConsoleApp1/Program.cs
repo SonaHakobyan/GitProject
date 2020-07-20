@@ -4,8 +4,8 @@
     {
         static void Main(string[] args)
         {
-            var str = "cherry-pick";
-            new Class1().LocalPrint(str);
+            var str = "master";
+            new Class1().MasterPrint(str);
         }
     }
 }
