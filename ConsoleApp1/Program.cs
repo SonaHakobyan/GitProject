@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            var str = "str";
+            var str = "strjjjj";
             new Class1().LocalPrint(str);
-            new Class1().LocalPrint("Local Change nnn");
+            new Class1().LocalPrint("Local Change");
         }
     }
 }
