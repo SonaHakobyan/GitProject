@@ -7,7 +7,6 @@ namespace ConsoleApp1
         public void MasterPrint(string str)
         {
             Console.WriteLine(str);
-            Console.WriteLine("");
         }
     }
 }
